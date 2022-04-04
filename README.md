@@ -1,2 +1,3 @@
-# clipped-pdf-text-formatter
-A private Chrome Extension to format clipped text from .pdf for pasting to DeepL.
+# clipboard-formatter
+
+A Chrome Extension to format text on your clipboard for using to translation tools.
