@@ -3,7 +3,7 @@
   "name": "Clipboard Formatter",
   "version": "0.0.0",
   "action": {
-    "default_title": "Click to show an alert"
+    "default_title": "Click to run"
   },
   "background": {
     "service_worker": "background.js"
